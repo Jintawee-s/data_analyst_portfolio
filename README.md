@@ -39,12 +39,12 @@ The dataset pertains to the direct marketing campaigns of a Portuguese banking i
 
 ## **Certificates**
 The following is a list of my completed certificates (in reverse-chronological order), which I believe serve as an indirect way to showcase my skills:
-- [Professional Data Analyst](https://badgr.com/public/assertions/dW-wYq_EThSE8bB6uX2s8w)(Issued Feb 2023)(DataRockie School)
-- [Power BI Essentials](https://www.skooldio.com/certificate/412de6dd-2ad3-4540-9379-d6401437ddba)(Issued Apr 2021)(Skooldio)
-- [Google Analytics for Beginners](https://analytics.google.com/analytics/academy/certificate/R7iOsdRnSPC2LCo2_ZRHGQ)(Issued May 2021)(Google Analytics Academy)
-- [Advanced Google Analytics](https://analytics.google.com/analytics/academy/certificate/8TQf9BHZQWCVqEnSPwY-TA)(Issued May 2021)(Google Analytics Academy)
-- [Introduction to Data Studio](https://analytics.google.com/analytics/academy/certificate/DOAKiVu1RUWXcuVnxOVRrg)(Issued May 2021)(Google Analytics Academy)
-- [Google Analytics Individual Qualification](https://skillshop.exceedlms.com/student/award/yCJCXWXPseTTFBalMN3Ondas)(Issued May 2021)(Google Analytics Academy(Skillshop))
+- [Professional Data Analyst](https://badgr.com/public/assertions/dW-wYq_EThSE8bB6uX2s8w) - DataRockie School (Issued Feb 2023) 
+- [Power BI Essentials](https://www.skooldio.com/certificate/412de6dd-2ad3-4540-9379-d6401437ddba) - Skooldio (Issued Apr 2021)
+- [Google Analytics for Beginners](https://analytics.google.com/analytics/academy/certificate/R7iOsdRnSPC2LCo2_ZRHGQ) - Google Analytics Academy (Issued May 2021)
+- [Advanced Google Analytics](https://analytics.google.com/analytics/academy/certificate/8TQf9BHZQWCVqEnSPwY-TA) - Google Analytics Academy (Issued May 2021)
+- [Introduction to Data Studio](https://analytics.google.com/analytics/academy/certificate/DOAKiVu1RUWXcuVnxOVRrg) - Google Analytics Academy (Issued May 2021)
+- [Google Analytics Individual Qualification](https://skillshop.exceedlms.com/student/award/yCJCXWXPseTTFBalMN3Ondas) - Google Analytics Academy(Skillshop) (Issued May 2021)
  
 ## **Contacts**
 - LinkedIn : [Jintawee Srijan](https://www.linkedin.com/in/jintawee-srijan-10356a195/)
