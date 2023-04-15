@@ -1,4 +1,4 @@
-print("Data Analysis Part")
+print("Bank Customers Churn")
 # import data
 import pandas as pd
 df = pd.read_csv("Churn Modeling.csv")
