@@ -11,14 +11,31 @@
 
 ## **Portfolio Projects**
 In this section, I will list my data analytics projects and provide a brief description of the technology stack used to solve each case.
+
 ### **Bank Customer Churn**
 A dataset which contain some customers who are withdrawing their account from the bank due to some loss and other issues with the help this data we try to analyse and maintain accuracy.
-Data source [Kaggle.com](https://www.kaggle.com/datasets/mathchi/churn-for-bank-customers)
+
+*Data source* [Kaggle.com](https://www.kaggle.com/datasets/mathchi/churn-for-bank-customers)
 - [Bank_Customer_Churn.py](https://github.com/Jintawee-s/data_analyst_portfolio/blob/main/Python/Bank_Customers_Churn.py) : Using the `pandas` library to analyze sales data
 - [Bank Customer Churn](https://github.com/Jintawee-s/data_analyst_portfolio/blob/main/R%20Programming/Bank%20Customer%20Churn.pdf) : Using the `Churn Modeling` dataset to predict the exited of bank customer by logistic regression and the stats package in `R`
 - [Bank Customers Churn Dashboard](https://lookerstudio.google.com/reporting/e71e2e0b-c12e-46bf-a97f-707a127ff87e) : Dashboard showing the Bank Customers Churn Report in `Looker Studio`
 
 **Technology:** Python, Pandas, R Programimg, Statistics, Looker studio
+
+### **Loan Risk Case**
+The loan risk dataset used in this project was provided by "Univ.AI" as part of a hackathon. To broaden the scope of the analysis, we expanded the dataset by including state demographics and census data, which we merged with the initial dataset based on the state feature.
+
+*Data source* [Kaggle.com](https://www.kaggle.com/datasets/pragatiganguly/loan-risk-case-study-merged-and-cleaned-data)
+
+### **Credit Card Approval - With Target**
+The dataset used in this project was sourced from kaggle.com and contains information on credit card applications. Its main purpose is to develop a predictive model for credit card authorization, with 500K observations and 17 features, including gender, income, family status, and housing type.
+
+*Data source* [Kaggle.com](https://www.kaggle.com/datasets/laotse/credit-card-approval)
+
+### **Bank Direct Marketing**
+The dataset pertains to the direct marketing campaigns of a Portuguese banking institution that used phone calls as a marketing tool. Multiple contacts were made to the same client to determine whether they would subscribe to the bank term deposit product or not.
+
+*Data source* [Kaggle.com](https://www.kaggle.com/datasets/psvishnu/bank-direct-marketing)
 
 ## **Certificates**
 The following is a list of my completed certificates (in reverse-chronological order), which I believe serve as an indirect way to showcase my skills:
