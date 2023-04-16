@@ -26,6 +26,11 @@ A dataset which contain some customers who are withdrawing their account from th
 The loan risk dataset used in this project was provided by "Univ.AI" as part of a hackathon. To broaden the scope of the analysis, we expanded the dataset by including state demographics and census data, which we merged with the initial dataset based on the state feature.
 
 *Data source* [Kaggle.com](https://www.kaggle.com/datasets/pragatiganguly/loan-risk-case-study-merged-and-cleaned-data)
+- [Loan_Risk.r](https://github.com/Jintawee-s/data_analyst_portfolio/blob/main/R%20Programming/Loan_Risk.r) : Analyzing the Loan risk dataset using the `dplyr` package in `R`
+- [Loan_Risk] : Creating 7 charts to data visualization in `R` using `ggplot2`
+- [Loan Risk Dashboard]: Dashboard showing the data of Loan Risk Case in `Tableau Public`
+
+**Technology:** R Programimg, ggplot2, Tableau Public
 
 ### **Credit Card Approval - With Target**
 The dataset used in this project was sourced from kaggle.com and contains information on credit card applications. Its main purpose is to develop a predictive model for credit card authorization, with 500K observations and 17 features, including gender, income, family status, and housing type.
