@@ -27,7 +27,7 @@ The loan risk dataset used in this project was provided by "Univ.AI" as part of 
 
 *Data source* [Kaggle.com](https://www.kaggle.com/datasets/pragatiganguly/loan-risk-case-study-merged-and-cleaned-data)
 - [Loan_Risk.r](https://github.com/Jintawee-s/data_analyst_portfolio/blob/main/R%20Programming/Loan_Risk.r) : Analyzing the Loan risk dataset using the `dplyr` package in `R`
-- [Loan_Risk] : Creating 7 charts to data visualization in `R` using `ggplot2`
+- [Loan_Risk](https://github.com/Jintawee-s/data_analyst_portfolio/blob/main/R%20Programming/Loan_Risk.pdf) : Creating 7 charts to data visualization in `R` using `ggplot2`
 - [Loan Risk Dashboard]: Dashboard showing the data of Loan Risk Case in `Tableau Public`
 
 **Technology:** R Programimg, ggplot2, Tableau Public
