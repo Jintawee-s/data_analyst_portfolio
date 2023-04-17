@@ -18,9 +18,9 @@ A dataset which contain some customers who are withdrawing their account from th
 *Data source* [Kaggle.com](https://www.kaggle.com/datasets/mathchi/churn-for-bank-customers)
 - [Bank_Customer_Churn.py](https://github.com/Jintawee-s/data_analyst_portfolio/blob/main/Python/Bank_Customers_Churn.py) : Using the `pandas` library to analyze bank customer churn data
 - [Bank Customer Churn](https://github.com/Jintawee-s/data_analyst_portfolio/blob/main/R%20Programming/Bank%20Customer%20Churn.pdf) : Using the `Churn Modeling` dataset to predict the exited of bank customer by logistic regression and the stats package in `R`
-- [Bank Customers Churn Dashboard](https://lookerstudio.google.com/reporting/e71e2e0b-c12e-46bf-a97f-707a127ff87e) : Dashboard showing the Bank Customers Churn Report in `Looker Studio`
+- [Bank Customers Churn Dashboard](https://public.tableau.com/views/BankCustomersChurnReport/BankCustomersChurnReport?:language=en-US&:display_count=n&:origin=viz_share_link) : Dashboard showing the Bank Customers Churn Report in `Tableau Public`
 
-**Technology:** Python, Pandas, R Programimg, Statistics, Looker studio
+**Technology:** Python, Pandas, R Programimg, Statistics, Tableau Public
 
 ### **Loan Risk Case**
 The loan risk dataset used in this project was provided by "Univ.AI" as part of a hackathon. To broaden the scope of the analysis, we expanded the dataset by including state demographics and census data, which we merged with the initial dataset based on the state feature.
@@ -28,9 +28,9 @@ The loan risk dataset used in this project was provided by "Univ.AI" as part of 
 *Data source* [Kaggle.com](https://www.kaggle.com/datasets/pragatiganguly/loan-risk-case-study-merged-and-cleaned-data)
 - [Loan_Risk.r](https://github.com/Jintawee-s/data_analyst_portfolio/blob/main/R%20Programming/Loan_Risk.r) : Analyzing the Loan risk dataset using the `dplyr` package in `R`
 - [Loan_Risk](https://github.com/Jintawee-s/data_analyst_portfolio/blob/main/R%20Programming/Loan_Risk.pdf) : Creating 7 charts to data visualization in `R` using `ggplot2`
-- [Loan Risk Dashboard]: Dashboard showing the data of Loan Risk Case in `Tableau Public`
+- [Loan Risk Dashboard](https://lookerstudio.google.com/reporting/e71e2e0b-c12e-46bf-a97f-707a127ff87e): Dashboard showing the data of Loan Risk Case in `Looker Studio`
 
-**Technology:** R Programimg, ggplot2, Tableau Public
+**Technology:** R Programimg, ggplot2, Looker studio
 
 ### **Credit Card Approval - With Target**
 The dataset used in this project was sourced from kaggle.com and contains information on credit card applications. Its main purpose is to develop a predictive model for credit card authorization, with 500K observations and 17 features, including gender, income, family status, and housing type.
