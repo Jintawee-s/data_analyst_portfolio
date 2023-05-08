@@ -12,6 +12,9 @@
 ## **Portfolio Projects**
 In this section, I will list my data analytics projects and provide a brief description of the technology stack used to solve each case.
 
+### **Relationship between perceived image, satisfaction, and intention to revisit of Thai customers towards Central Festival Chiangmai shopping centerRelationship**
+This dataset is part of an independent study for a Master's degree in Marketing and includes a sample of 420 Thai customers who visited the Central Festival Chiangmai shopping center.
+
 ### **Bank Customer Churn**
 A dataset which contain some customers who are withdrawing their account from the bank due to some loss and other issues with the help this data we try to analyse and maintain accuracy.
 
