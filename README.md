@@ -45,6 +45,9 @@ The dataset pertains to the direct marketing campaigns of a Portuguese banking i
 
 *Data source* [Kaggle.com](https://www.kaggle.com/datasets/psvishnu/bank-direct-marketing)
 
+## **Bootcamp Projects**
+I participated in the DataRockie Bootcamp, a four-month data science program in collaboration with adToy. Throughout the boot camp, I successfully completed 10 sprints, each consisting of various projects and homework assignments. These projects, collectively known as [Bootcamp Projects](https://github.com/Jintawee-s/bootcamp_projects), showcased my learning and progress during the program.
+
 ## **Certificates**
 The following is a list of my completed certificates (in reverse-chronological order), which I believe serve as an indirect way to showcase my skills:
 - [Professional Data Analyst](https://badgr.com/public/assertions/dW-wYq_EThSE8bB6uX2s8w) - DataRockie School (Issued Feb 2023) 
