@@ -12,8 +12,10 @@
 ## **Portfolio Projects**
 In this section, I will list my data analytics projects and provide a brief description of the technology stack used to solve each case.
 
-### **Relationship between perceived image, satisfaction, and intention to revisit of Thai customers towards Central Festival Chiangmai shopping centerRelationship**
+### **Relationship between perceived image, satisfaction, and intention to revisit of Thai customers towards Central Festival Chiangmai shopping center**
 This dataset is part of an independent study for a Master's degree in Marketing and includes a sample of 420 Thai customers who visited the Central Festival Chiangmai shopping center.
+
+*Reference* [CMU e-Theses](https://cmudc.library.cmu.ac.th/frontend/Info/item/dc:162226)
 
 ### **Bank Customer Churn**
 A dataset which contain some customers who are withdrawing their account from the bank due to some loss and other issues with the help this data we try to analyse and maintain accuracy.
@@ -35,10 +37,10 @@ The loan risk dataset used in this project was provided by "Univ.AI" as part of 
 
 **Technology:** R Programimg, ggplot2, Looker studio
 
-### **Credit Card Approval - With Target**
-The dataset used in this project was sourced from kaggle.com and contains information on credit card applications. Its main purpose is to develop a predictive model for credit card authorization, with 500K observations and 17 features, including gender, income, family status, and housing type.
+### **Social Influence on Shopping**
+This dataset provides insights into the shopping habits of millennials and Gen Z members, as well as valuable information on the influence of their choices on social media.
 
-*Data source* [Kaggle.com](https://www.kaggle.com/datasets/laotse/credit-card-approval)
+*Data source* [Kaggle.com](https://www.kaggle.com/datasets/ruchi798/shopping-cart-database)
 
 ### **Bank Direct Marketing**
 The dataset pertains to the direct marketing campaigns of a Portuguese banking institution that used phone calls as a marketing tool. Multiple contacts were made to the same client to determine whether they would subscribe to the bank term deposit product or not.
