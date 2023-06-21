@@ -42,11 +42,6 @@ This dataset provides insights into the shopping habits of millennials and Gen Z
 
 *Data source* [Kaggle.com](https://www.kaggle.com/datasets/ruchi798/shopping-cart-database)
 
-### **Bank Direct Marketing**
-The dataset pertains to the direct marketing campaigns of a Portuguese banking institution that used phone calls as a marketing tool. Multiple contacts were made to the same client to determine whether they would subscribe to the bank term deposit product or not.
-
-*Data source* [Kaggle.com](https://www.kaggle.com/datasets/psvishnu/bank-direct-marketing)
-
 ## **Bootcamp Projects**
 I participated in the DataRockie Bootcamp, a four-month data science program in collaboration with `adToy`. Throughout the boot camp, I successfully completed 10 sprints, each consisting of various projects and homework assignments. These projects, collectively known as [Bootcamp Projects](https://github.com/Jintawee-s/bootcamp_projects), showcased my learning and progress during the program.
 
