@@ -5,7 +5,7 @@
 ## **Table of content**
 - [About](https://github.com/Jintawee-s/data_analyst_portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/Jintawee-s/data_analyst_portfolio/blob/main/README.md#portfolio-projects)
-- [Bootcamp Projects](https://github.com/Jintawee-s/bootcamp_projects)
+- [Bootcamp Projects](https://github.com/Jintawee-s/data_analyst_portfolio/blob/main/README.md#bootcamp-projects)
 - [Certificates](https://github.com/Jintawee-s/data_analyst_portfolio/blob/main/README.md#certificates)
 - [Contacts](https://github.com/Jintawee-s/data_analyst_portfolio/blob/main/README.md#contacts)
 
@@ -46,7 +46,7 @@ The dataset pertains to the direct marketing campaigns of a Portuguese banking i
 *Data source* [Kaggle.com](https://www.kaggle.com/datasets/psvishnu/bank-direct-marketing)
 
 ## **Bootcamp Projects**
-I participated in the DataRockie Bootcamp, a four-month data science program in collaboration with adToy. Throughout the boot camp, I successfully completed 10 sprints, each consisting of various projects and homework assignments. These projects, collectively known as [Bootcamp Projects](https://github.com/Jintawee-s/bootcamp_projects), showcased my learning and progress during the program.
+I participated in the DataRockie Bootcamp, a four-month data science program in collaboration with 'adToy'. Throughout the boot camp, I successfully completed 10 sprints, each consisting of various projects and homework assignments. These projects, collectively known as [Bootcamp Projects](https://github.com/Jintawee-s/bootcamp_projects), showcased my learning and progress during the program.
 
 ## **Certificates**
 The following is a list of my completed certificates (in reverse-chronological order), which I believe serve as an indirect way to showcase my skills:
