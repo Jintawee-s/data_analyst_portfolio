@@ -13,11 +13,6 @@ Detail-oriented and analytical Data Analyst with 4+ years of proven professional
 ## **Portfolio Projects**
 In this section, I will list my data analytics projects and provide a brief description of the technology stack used to solve each case.
 
-### **Relationship between perceived image, satisfaction, and intention to revisit of Thai customers towards Central Festival Chiangmai shopping center**
-This dataset is part of an independent study for a Master's degree in Marketing and includes a sample of 420 Thai customers who visited the Central Festival Chiangmai shopping center.
-
-*Reference* [CMU e-Theses](https://cmudc.library.cmu.ac.th/frontend/Info/item/dc:162226)
-
 ### **Bank Customer Churn**
 A dataset which contain some customers who are withdrawing their account from the bank due to some loss and other issues with the help this data we try to analyse and maintain accuracy.
 
@@ -42,6 +37,11 @@ The loan risk dataset used in this project was provided by "Univ.AI" as part of 
 This dataset provides insights into the shopping habits of millennials and Gen Z members, as well as valuable information on the influence of their choices on social media.
 
 *Data source* [Kaggle.com](https://www.kaggle.com/datasets/ruchi798/shopping-cart-database)
+
+### **Relationship between perceived image, satisfaction, and intention to revisit of Thai customers towards Central Festival Chiangmai shopping center**
+This dataset is part of an independent study for a Master's degree in Marketing and includes a sample of 420 Thai customers who visited the Central Festival Chiangmai shopping center.
+
+*Reference* [CMU e-Theses](https://cmudc.library.cmu.ac.th/frontend/Info/item/dc:162226)
 
 ## **Bootcamp Projects**
 I participated in the DataRockie Bootcamp, a four-month data science program in collaboration with `adToy`. Throughout the boot camp, I successfully completed 10 sprints, each consisting of various projects and homework assignments. These projects, collectively known as [Bootcamp Projects](https://github.com/Jintawee-s/bootcamp_projects), showcased my learning and progress during the program.
