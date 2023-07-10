@@ -48,7 +48,7 @@ I participated in the DataRockie Bootcamp, a four-month data science program in 
 
 ## **Certificates**
 The following is a list of my completed certificates (in reverse-chronological order), which I believe serve as an indirect way to showcase my skills:
-- [Foundations: Data, Data, Everywhere]([https://badgr.com/public/assertions/dW-wYq_EThSE8bB6uX2s8w](https://coursera.org/share/dc9b1a433b441ed0b7d8a1d26e2368a6)) - Google (Issued Jul 2023) 
+- [Foundations: Data, Data, Everywhere](https://coursera.org/share/dc9b1a433b441ed0b7d8a1d26e2368a6) - Google (Issued Jul 2023) 
 - [Professional Data Analyst](https://badgr.com/public/assertions/dW-wYq_EThSE8bB6uX2s8w) - DataRockie School (Issued Feb 2023) 
 - [Power BI Essentials](https://www.skooldio.com/certificate/412de6dd-2ad3-4540-9379-d6401437ddba) - Skooldio (Issued Apr 2021)
 - [Google Analytics for Beginners](https://analytics.google.com/analytics/academy/certificate/R7iOsdRnSPC2LCo2_ZRHGQ) - Google Analytics Academy (Issued May 2021)
