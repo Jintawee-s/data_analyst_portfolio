@@ -43,6 +43,15 @@ This dataset is part of an independent study for a Master's degree in Marketing 
 
 *Reference* [CMU e-Theses](https://cmudc.library.cmu.ac.th/frontend/Info/item/dc:162226)
 
+## **Business Case Projects**
+In this section, I will present a compilation of my self-learning business case projects, along with their respective project briefs, business objectives, conclusions, and insights.
+
+### **Lightning Express Case**
+
+### **Social listening case Case**
+
+### **Lightning Express Case**
+
 ## **Bootcamp Projects**
 I participated in the DataRockie Bootcamp, a four-month data science program in collaboration with `adToy`. Throughout the boot camp, I successfully completed 10 sprints, each consisting of various projects and homework assignments. These projects, collectively known as [Bootcamp Projects](https://github.com/Jintawee-s/bootcamp_projects), showcased my learning and progress during the program.
 
