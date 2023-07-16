@@ -39,6 +39,15 @@ This dataset provides insights into the shopping habits of millennials and Gen Z
 
 *Data source* [Kaggle.com](https://www.kaggle.com/datasets/ruchi798/shopping-cart-database)
 
+### **RFM Analysis**
+This dataset, sourced from the analysis chapter of the book "Data Decision Making," serves as a practical resource for readers to enhance their analytical skills by utilizing Excel or Google Sheets as a foundational tool for analysis.
+
+*Data source* [Data Decision Making Book](https://docs.google.com/spreadsheets/d/1jiKJ16lJZdrY_oP0-ErUeME3GuqgdLUi/edit?usp=sharing&ouid=105932209553680056612&rtpof=true&sd=true)
+- [RFM Analysis](https://docs.google.com/spreadsheets/d/1SMRGjtBqW5eJZuF1r5yzBBPPkK4yePA5CdKY0D6dFIY/edit?usp=sharing): The analysis involves examining customer shopping behavior datasets for the purpose of customer segmentation. This segmentation is based on the Recency, Frequency, and Monetary (RFM) factors, and entails assigning a score to each customer. The ultimate objective is to rank customers based on their importance and categorize them into 11 distinct groups. The analysis is performed using `Google Sheets`.
+- [Customer Segmentation Dashboard](https://lookerstudio.google.com/reporting/dfaddf83-154b-473a-8e0b-d93f981abe9c): Dashboard showing the data of Customer Segmentation in `Looker Studio`
+
+**Technology:** Google sheet, Looker studio
+
 ### **Relationship between perceived image, satisfaction, and intention to revisit of Thai customers towards Central Festival Chiangmai shopping center**
 This dataset is part of an independent study for a Master's degree in Marketing and includes a sample of 420 Thai customers who visited the Central Festival Chiangmai shopping center.
 
