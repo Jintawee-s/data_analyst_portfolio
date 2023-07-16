@@ -6,6 +6,7 @@ Detail-oriented and analytical Data Analyst with 4+ years of proven professional
 ## **Table of content**
 - [About](https://github.com/Jintawee-s/data_analyst_portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/Jintawee-s/data_analyst_portfolio/blob/main/README.md#portfolio-projects)
+- [Business Case Projects](https://github.com/Jintawee-s/data_analyst_portfolio#business-case-projects)
 - [Bootcamp Projects](https://github.com/Jintawee-s/data_analyst_portfolio/blob/main/README.md#bootcamp-projects)
 - [Certificates](https://github.com/Jintawee-s/data_analyst_portfolio/blob/main/README.md#certificates)
 - [Contacts](https://github.com/Jintawee-s/data_analyst_portfolio/blob/main/README.md#contacts)
@@ -45,8 +46,6 @@ This dataset is part of an independent study for a Master's degree in Marketing 
 
 ## **Business Case Projects**
 In this section, I will present a compilation of my self-learning business case projects, along with their respective project briefs, business objectives, conclusions, and insights.
-
-### **Lightning Express Case**
 
 ### **Social listening case Case**
 
