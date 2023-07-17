@@ -34,10 +34,10 @@ The loan risk dataset used in this project was provided by "Univ.AI" as part of 
 
 **Technology:** R Programimg, ggplot2, Looker studio
 
-### **Social Influence on Shopping**
-This dataset provides insights into the shopping habits of millennials and Gen Z members, as well as valuable information on the influence of their choices on social media.
+### **Top Instagram Accounts**
+This dataset offers valuable insights into the most popular Instagram accounts across various categories. It comprises several columns that provide comprehensive information regarding the performance, engagement rate, and audience size of each account.
 
-*Data source* [Kaggle.com](https://www.kaggle.com/datasets/ruchi798/shopping-cart-database)
+*Data source* [Kaggle.com](https://www.kaggle.com/datasets/faisaljanjua0555/top-200-most-followed-instagram-accounts-2023)
 
 ### **RFM Analysis**
 This dataset, sourced from the analysis chapter of the book "Data Decision Making," serves as a practical resource for readers to enhance their analytical skills by utilizing Excel or Google Sheets as a foundational tool for analysis.
