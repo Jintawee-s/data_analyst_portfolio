@@ -30,7 +30,7 @@ The loan risk dataset used in this project was provided by "Univ.AI" as part of 
 *Data source* [Kaggle.com](https://www.kaggle.com/datasets/pragatiganguly/loan-risk-case-study-merged-and-cleaned-data)
 - [Loan_Risk.r](https://github.com/Jintawee-s/data_analyst_portfolio/blob/main/R%20Programming/Loan_Risk.r) : Analyzing the Loan risk dataset using the `dplyr` package in `R`
 - [Loan_Risk](https://github.com/Jintawee-s/data_analyst_portfolio/blob/main/R%20Programming/Loan_Risk.pdf) : Creating 7 charts to data visualization in `R` using `ggplot2`
-- [Loan Risk Dashboard](https://lookerstudio.google.com/reporting/e71e2e0b-c12e-46bf-a97f-707a127ff87e): Dashboard showing the data of Loan Risk Case in `Looker Studio`
+- [Loan Risk Dashboard](https://lookerstudio.google.com/reporting/e71e2e0b-c12e-46bf-a97f-707a127ff87e) : Dashboard showing the data of Loan Risk Case in `Looker Studio`
 
 **Technology:** R Programimg, ggplot2, Looker studio
 
@@ -38,13 +38,18 @@ The loan risk dataset used in this project was provided by "Univ.AI" as part of 
 This dataset offers valuable insights into the most popular Instagram accounts across various categories. It comprises several columns that provide comprehensive information regarding the performance, engagement rate, and audience size of each account.
 
 *Data source* [Kaggle.com](https://www.kaggle.com/datasets/faisaljanjua0555/top-200-most-followed-instagram-accounts-2023)
+- [Top_Instagram_Accounts.py]() : Using the `pandas` library to analyze Instagram Accounts data
+- [Top_Instagram_Accounts]() : Creating X charts to data visualization in `R` using `ggplot2`
+- [Top Instagram Accounts Dashboard]() : Dashboard showing the data of Top Instagram Accounts in `Looker Studio`
+
+**Technology:** Python, Pandas, R Programimg, ggplot2, Looker studio
 
 ### **RFM Analysis**
 This dataset, sourced from the analysis chapter of the book "Data Decision Making," serves as a practical resource for readers to enhance their analytical skills by utilizing Excel or Google Sheets as a foundational tool for analysis.
 
 *Data source* [Data Decision Making Book](https://docs.google.com/spreadsheets/d/1jiKJ16lJZdrY_oP0-ErUeME3GuqgdLUi/edit?usp=sharing&ouid=105932209553680056612&rtpof=true&sd=true)
-- [RFM Analysis](https://docs.google.com/spreadsheets/d/1SMRGjtBqW5eJZuF1r5yzBBPPkK4yePA5CdKY0D6dFIY/edit?usp=sharing): The analysis involves examining customer shopping behavior datasets for the purpose of customer segmentation. This segmentation is based on the Recency, Frequency, and Monetary (RFM) factors, and entails assigning a score to each customer. The ultimate objective is to rank customers based on their importance and categorize them into 11 distinct groups. The analysis is performed using `Google Sheets`.
-- [Customer Segmentation Dashboard](https://lookerstudio.google.com/reporting/dfaddf83-154b-473a-8e0b-d93f981abe9c): Dashboard showing the data of Customer Segmentation in `Looker Studio`
+- [RFM Analysis](https://docs.google.com/spreadsheets/d/1SMRGjtBqW5eJZuF1r5yzBBPPkK4yePA5CdKY0D6dFIY/edit?usp=sharing) : The analysis involves examining customer shopping behavior datasets for the purpose of customer segmentation. This segmentation is based on the Recency, Frequency, and Monetary (RFM) factors, and entails assigning a score to each customer. The ultimate objective is to rank customers based on their importance and categorize them into 11 distinct groups. The analysis is performed using `Google Sheets`.
+- [Customer Segmentation Dashboard](https://lookerstudio.google.com/reporting/dfaddf83-154b-473a-8e0b-d93f981abe9c) : Dashboard showing the data of Customer Segmentation in `Looker Studio`
 
 **Technology:** Google sheet, Looker studio
 
