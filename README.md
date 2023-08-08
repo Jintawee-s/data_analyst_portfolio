@@ -61,7 +61,7 @@ This dataset is part of an independent study for a Master's degree in Marketing 
 ## **Business Case Projects**
 In this section, I will present a compilation of my self-learning business case projects, along with their respective project briefs, business objectives, conclusions, and insights.
 
-### **Social listening case Case**
+### **Social listening Case**
 
 ### **Lightning Express Case**
 
