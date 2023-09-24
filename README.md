@@ -1,12 +1,11 @@
 # Jintawee Srijan - Data Analyst Portfolio
 
 ## **About**
-Detail-oriented and analytical Data Analyst with 4+ years of proven professional experiences in data analysis in project and digital marketing management, as well as holding a Professional Data Analyst certification. Possess an outstanding record of success in controlling a THB 5+ million budget for non-bank accounts, as well as successfully managed and supervised a cross-functional team of 8. Experience in growing the number of stores by 900% and revenue by 432% using data and market analysis. Outstanding statistical analysis, data management, communication, leadership, and presentation skills, as well as the capacity to apply practical technological skills in Google Sheets, SQL, R, Python, Tableau, Power BI, Statistics, and Machine Learning to decode insightful information and overcome business challenges.
+With a background in digital marketing, I've recently completed an intensive Data Analysis Bootcamp to pivot my career into this field. This training has honed my skills in data analysis tools, statistical analysis, and data visualization. My experience in digital marketing has further sharpened my analytical and problem-solving abilities, positioning me well for success as a Data Analyst. I'm enthusiastic about applying my unique perspective to your team and contributing to data-driven decision-making..
 
 ## **Table of content**
 - [About](https://github.com/Jintawee-s/data_analyst_portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/Jintawee-s/data_analyst_portfolio/blob/main/README.md#portfolio-projects)
-- [Business Case Projects](https://github.com/Jintawee-s/data_analyst_portfolio#business-case-projects)
 - [Bootcamp Projects](https://github.com/Jintawee-s/data_analyst_portfolio/blob/main/README.md#bootcamp-projects)
 - [Certificates](https://github.com/Jintawee-s/data_analyst_portfolio/blob/main/README.md#certificates)
 - [Contacts](https://github.com/Jintawee-s/data_analyst_portfolio/blob/main/README.md#contacts)
@@ -34,16 +33,6 @@ The loan risk dataset used in this project was provided by "Univ.AI" as part of 
 
 **Technology:** R Programimg, ggplot2, Looker studio
 
-### **Top Instagram Accounts**
-This dataset offers valuable insights into the most popular Instagram accounts across various categories. It comprises several columns that provide comprehensive information regarding the performance, engagement rate, and audience size of each account.
-
-*Data source* [Kaggle.com](https://www.kaggle.com/datasets/faisaljanjua0555/top-200-most-followed-instagram-accounts-2023)
-- [Top_Instagram_Accounts.py]() : Using the `pandas` library to analyze Instagram Accounts data
-- [Top_Instagram_Accounts]() : Creating X charts to data visualization in `R` using `ggplot2`
-- [Top Instagram Accounts Dashboard]() : Dashboard showing the data of Top Instagram Accounts in `Looker Studio`
-
-**Technology:** Python, Pandas, R Programimg, ggplot2, Looker studio
-
 ### **RFM Analysis**
 This dataset, sourced from the analysis chapter of the book "Data Decision Making," serves as a practical resource for readers to enhance their analytical skills by utilizing Excel or Google Sheets as a foundational tool for analysis.
 
@@ -57,13 +46,6 @@ This dataset, sourced from the analysis chapter of the book "Data Decision Makin
 This dataset is part of an independent study for a Master's degree in Marketing and includes a sample of 420 Thai customers who visited the Central Festival Chiangmai shopping center.
 
 *Reference* [CMU e-Theses](https://cmudc.library.cmu.ac.th/frontend/Info/item/dc:162226)
-
-## **Business Case Projects**
-In this section, I will present a compilation of my self-learning business case projects, along with their respective project briefs, business objectives, conclusions, and insights.
-
-### **Social listening Case**
-
-### **Lightning Express Case**
 
 ## **Bootcamp Projects**
 I participated in the DataRockie Bootcamp, a four-month data science program in collaboration with `adToy`. Throughout the boot camp, I successfully completed 10 sprints, each consisting of various projects and homework assignments. These projects, collectively known as [Bootcamp Projects](https://github.com/Jintawee-s/bootcamp_projects), showcased my learning and progress during the program.
